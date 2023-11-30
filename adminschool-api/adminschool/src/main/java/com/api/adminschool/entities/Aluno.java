@@ -19,7 +19,7 @@ public class Aluno {
     @Column(nullable = false)
     private String nome;
 
-    @OnetoOne
+    @ManytoOne
     @JoinColumn(name = "turma_id")
     private Turma turma;
 
