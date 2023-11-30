@@ -1,4 +1,4 @@
-package com.example.demo.controllers;
+package com.api.adminschool.services;
 
 import com.api.adminschool.dtos.CursoDTO;
 import com.api.adminschool.entities.Curso;

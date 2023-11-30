@@ -1,4 +1,4 @@
-package com.example.demo.controllers;
+package com.api.adminschool.controllers;
 
 import com.api.adminschool.dtos.AlunoDTO;
 import com.api.adminschool.dtos.TurmaDTO;
